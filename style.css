@@ -1,0 +1,17 @@
+.jumbotron {
+  padding: 8rem 1rem;
+  background-color: rgba(106, 61, 148, 0.342);
+}
+#about {
+  padding: 2rem 2rem;
+}
+#gallery {
+  background-color: rgba(106, 61, 148, 0.342);
+  padding: 4rem 1rem;
+}
+#contact {
+  padding: 5rem;
+}
+#footer {
+  background-color: rgb(73, 16, 128);
+}
